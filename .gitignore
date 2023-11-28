@@ -1,0 +1,5 @@
+cassandra/cassandra.yaml
+cassandra/loading.log
+cassandra/slurm*
+cassandra/xacts/__pycache__/
+
